@@ -2,7 +2,7 @@
 name = "primitive-db"
 version = "0.1.0"
 description = "Учебная примитивная файловая база данных (JSON, без SQL)"
-authors = ["Glebov <rfugu@yandex.ru>"]
+authors = ["Vladimirov <vladidan2003@mail.ru>"]
 license = "MIT"
 readme = "README.md"
 packages = [{ include = "primitive_db", from = "src" }]
